@@ -1,4 +1,4 @@
-# Module 5 - Problem Set No. 8 Problem 1
+# String Exercises
 
 # INSTRUCTIONS
 
